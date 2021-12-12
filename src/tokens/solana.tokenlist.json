@@ -41282,17 +41282,20 @@
     {
       "chainId": 101,
       "address": "63vT4MTT4dKgdNBc7TacURrGGFM1XGEkrs2F1MeAy7Wz",
-      "symbol": "IFUPT",
-      "name": "IFU PT",
-      "decimals": 0,
+      "symbol": "IFU",
+      "name": "Incognitfigure",
+      "decimals": 2,
       "logoURI": "https://raw.githubusercontent.com/incognitfigure/ifu/main/ifutoken.png",
       "tags": [
         "utility-token",
-        "social-token"
+        "social-token",
+        "NFT",
+        "Software"
 
       ],
       "extensions": {
         "description": "Incognitfigure Unipessoal Lda investment token.",
+        "facebook": "https://www.facebook.com/incognitfigure",
         "website": "https://ifu.pt"
       }
     }
