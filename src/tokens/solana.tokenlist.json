@@ -41282,15 +41282,13 @@
     {
       "chainId": 101,
       "address": "63vT4MTT4dKgdNBc7TacURrGGFM1XGEkrs2F1MeAy7Wz",
-      "symbol": "IFU",
-      "name": "Incognitfigure",
-      "decimals": 2,
+      "symbol": "IFUPT",
+      "name": "IFU COIN",
+      "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/incognitfigure/ifu/main/ifutoken.png",
       "tags": [
         "utility-token",
-        "social-token",
-        "NFT",
-        "Software"
+        "social-token"
 
       ],
       "extensions": {
